@@ -1,0 +1,13 @@
+//for creating new branch:
+
+git checkout -b branchName 
+
+//for conflict resolve either one of the developer  should open his terminal and pull the code from the origin
+
+for example : git pull origin branch_name(the branch i want to pull, in general its the develpment branch)
+
+git pull origin development 
+
+accept current changes / accept incoming changes / accept both changes 
+
+so, we should click accept both changes. and the merge conflict will be resolved. 
