@@ -1,0 +1,4 @@
+//for creating new branch:
+
+git checkout -b branchName 
+
